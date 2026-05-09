@@ -1,6 +1,6 @@
 var board = document.getElementById("oejs");
-//board.width = 400;
-//board.height = 400;
+board.width = 400;
+board.height = 400;
 //board.style.width = "400px";
 //board.style.height = "400px";
 var ctx = board.getContext("2d");
